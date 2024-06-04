@@ -18,8 +18,6 @@ Developer's note:
 
 - I understand the importance of clean, well-organized code, and while this implementation is currently effective and efficient, there is always room for improvement. However, I acknowledge that the code could benefit from some organization and refactoring.
 
-[Live Here](https://weathercastrjs.netlify.app/)
-
 ## Cloning and Modifying a Project
 
 - Open a terminal window on your computer.
